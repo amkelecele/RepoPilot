@@ -1,0 +1,4 @@
+build/
+Generated/
+.env
+__pycache__/
