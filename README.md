@@ -38,4 +38,4 @@ Run:
 (Add demo video link)
 
 ## Author
-Your Name
+Amkele Cele
